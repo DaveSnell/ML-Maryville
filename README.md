@@ -1,2 +1,2 @@
 # ML-Maryville
-Assorted Jpyter and other files for class use
+Assorted Jupyter and other files for class use
